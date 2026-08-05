@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# Visual Studio IDE/build junk (e.g. lib/DynamixelSDK)
+.vs/
+*.suo
+*.ide
+*.ide-shm
+*.ide-wal
+*.dtbcache
